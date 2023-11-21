@@ -8,7 +8,7 @@
 <a name="7" id="7" target="_blank"></a> <span id="7">
 <a id="user-content-1" href="#1">
 <div align="center">
-<a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://github.com/19920513/qikan/blob/master/mhqk.jpg?raw=true"></a><br>
+<a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/qikan/main/mhqk.jpg"></a><br>
 <a href="https://github.com/19920513/qikan/blob/master/display.aspx/category_id/8/page_1.md#1">最新出版</a>｜<a href="https://github.com/19920513/qikan/blob/master/category.aspx/category/mainland/page_1.md#1">大陆杂志</a>｜<a href="https://github.com/19920513/qikan/blob/master/category.aspx/category/overseas/page_1.md#1">海外杂志</a>｜<a href="https://github.com/19920513/qikan/blob/master/display.aspx/category_id/4/guige_id/3/page_1.md#1">普通单张</a>｜<a href="https://github.com/19920513/qikan/blob/master/category.aspx/category/zhuanti/page_1.md#1">专题特刊</a>｜<a href="https://github.com/19920513/qikan/blob/master/display.aspx/category_id/6/meijie_id/2/page_1.md#1">电子图书</a>｜<a href="https://github.com/19920513/qikan/blob/master/display.aspx/qikan_type_id/11075/page_1.md#1">手机图片</a>｜<a href="https://github.com/19920513/qikan/blob/master/display.aspx/category_id/5/zhouqi_id/6/page_1.md#1">旧刊寻踪</a>｜<a href="https://github.com/19920513/qikan/blob/master/UpdatedArticles.aspx/page_1.md#1">更新期刊</a>
 <br>
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
