@@ -20,13 +20,22 @@
 不定期：<a href="https://github.com/19920513/qikan/blob/master/display.aspx/qikan_type_id/11185/page_1.md#1">《慧闻图说》</a>｜<a href="https://github.com/19920513/qikan/blob/master/display.aspx/qikan_type_id/11131/page_1.md#1">《绝处逢生连环画》</a>｜ <a href="https://github.com/19920513/qikan/blob/master/display.aspx/category_id/6/meijie_id/3/keyword/other/page_1.md#1">更多　　　　　　</a> <br>
 <br>
 <a target="_blank" href="https://github.com/19920513/djy/blob/master/gb/nsc413.md#1"><img src="https://raw.githubusercontent.com/19920513/www/master/t/lh600.jpg"></a><br>
-<h1><strong>更新期刊</strong></h1><p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210545.pdf">明慧期刊：天赐洪福（第一四零期）  ( 2023年11月19日更新）　　　　　　　出版日期:10/18/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210793.pdf">明慧周报：中国版（第九八零期）  ( 2023年11月18日更新）　　　　　　　出版日期:11/17/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209551.pdf">绝处逢生系列连环画刊（第二八期）（2023年11月17日更新）　　　　　　　出版日期:07/05/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/207870.pdf">绝处逢生系列连环画刊（第二六期）（2023年11月13日更新）　　　　　　　出版日期:01/01/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206824.pdf">绝处逢生系列连环画刊（第二五期）（2023年11月13日更新）　　　　　　　出版日期:09/07/2022</a></strong></p>
+<h1><strong>更新期刊</strong></h1><p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210972.pdf">明慧期刊：天赐洪福（第一四一期）  ( 2023年12月15日更新）　　　　　　　出版日期:12/15/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210735.pdf">明慧期刊：明白（第九九期）（2023年12月13日更新）　　　　　　　出版日期:11/08/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/166568.pdf">明慧特刊：欺骗了四代中国人的谎言（2023年12月13日更新）　　　　　　　出版日期:06/30/2014</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210968.pdf">明慧周报：沈阳版（第六二三期）  ( 2023年12月13日更新）　　　　　　　出版日期:12/11/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/163342.pdf">明慧特刊：谎言与真相――1400例谎言的背后（2023年12月13日更新）　　　　　　　出版日期:12/04/2013</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/206824.pdf">绝处逢生系列连环画刊（第二五期）（2023年12月10日更新）　　　　　　　出版日期:09/07/2022</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/207870.pdf">绝处逢生系列连环画刊（第二六期）（2023年12月10日更新）　　　　　　　出版日期:01/01/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210931.pdf">明慧周报：中国版（第九八三期）  ( 2023年12月9日更新）　　　　　　　出版日期:12/08/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210929.pdf">明慧期刊：慧声（第七八期）  ( 2023年12月6日更新）　　　　　　　出版日期:12/06/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210884.pdf">明慧周报：中国版（第九八二期）  ( 2023年12月5日更新）　　　　　　　出版日期:12/01/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/209551.pdf">绝处逢生系列连环画刊（第二八期）（2023年11月21日更新）　　　　　　　出版日期:07/05/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210793.pdf">明慧周报：中国版（第九八零期）  ( 2023年11月26日更新）　　　　　　　出版日期:11/17/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210837.pdf">明慧周报：中国版（第九八一期）  ( 2023年11月26日更新）　　　　　　　出版日期:11/24/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210653.pdf">2024年福字（11款，正背两面）（2023年11月25日更新）　　　　　　　出版日期:10/30/2023</a></strong></p>
+<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210545.pdf">明慧期刊：天赐洪福（第一四零期）  ( 2023年11月19日更新）　　　　　　　出版日期:10/18/2023</a></strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210782.pdf">明慧周报：哈尔滨版（第七二二期）（2023年11月13日更新）　　　　　　　出版日期:11/12/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210735.pdf">明慧期刊：明白（第九九期）（2023年11月13日更新）　　　　　　　出版日期:11/08/2023</a></strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210733.pdf">明慧期刊：金种子（第五一期）  ( 2023年11月12日更新）　　　　　　　出版日期:11/07/2023</a></strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210737.pdf">明慧周报：中国版（第九七九期）   ( 2023年11月11日更新）　　　　　　　出版日期:11/10/2023</a></strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210655.pdf">明慧期刊：天地苍生（第二九八期）（2023年11月10日更新）　　　　　　　出版日期:11/02/2023</a></strong></p>
@@ -51,13 +60,4 @@
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210435.pdf">明慧周报：德阳版（第三九二期）（2023年10月9日更新）　　　　　　　出版日期:10/07/2023</a></strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210101.pdf">明慧周报：福建版（第六二四期）（2023年10月8日更新）　　　　　　　出版日期:08/27/2023</a></strong></p>
 <p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210434.pdf">明慧周报：中国版（第九七四期） （2023年10月7日更新）　　　　　　　出版日期:10/06/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210405.pdf">明慧周报：哈尔滨版（第七一六期）（2023年10月4日更新）　　　　　　　出版日期:09/30/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210382.pdf">明慧期刊：慧声（第七七期）（2023年10月3日更新）　　　　　　　出版日期:09/28/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210384.pdf">祝你平安（第六九期）（2023年10月3日更新）　　　　　　　出版日期:09/29/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210298.pdf">2024明慧年历：吉祥娃娃（2023年10月1日更新）　　　　　　　出版日期:09/17/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210355.pdf">明慧周报：辽宁版（第六六零期）（2023年10月1日更新）　　　　　　　出版日期:09/24/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210381.pdf">明慧期刊：真相（第一三零期） （2023年9月30日更新）　　　　　　　出版日期:09/28/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210385.pdf">明慧周报：中国版（第九七三期）（2023年9月30日更新）　　　　　　　出版日期:09/29/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210320.pdf">明慧周报：中国版（第九七二期）（2023年9月30日更新）　　　　　　　出版日期:09/22/2023</a></strong></p>
-<p align="center"><strong><a target="_blank" href="https://gitlab.com/pdf-edit/pdfkit/-/raw/master/tests/pdf/210245.pdf">2023年中秋贺卡（3款）（2023年9月27日更新）　　　　　　　出版日期:09/13/2023</a></strong></p>
 
